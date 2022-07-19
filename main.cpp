@@ -11,7 +11,7 @@ Data Structure Project
 // list of included libraries
 #include <iostream>
 using namespace std;
-#include "DS_project.cpp"
+#include "header.cpp"
 
 // frequency of character calculation
 freqarray* frequecny(string n)
